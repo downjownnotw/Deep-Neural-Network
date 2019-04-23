@@ -1,0 +1,10 @@
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\bin\Debug\DNN_Example.exe.config
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\bin\Debug\DNN_Example.exe
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\bin\Debug\DNN_Example.pdb
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\bin\Debug\DNN_Example.xml
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\obj\Debug\DNN_Example.Resources.resources
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\obj\Debug\DNN_Example.vbproj.GenerateResource.Cache
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\obj\Debug\DNN_Example.exe
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\obj\Debug\DNN_Example.xml
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\obj\Debug\DNN_Example.pdb
+E:\11S15064 Rade Rido Pangaribuan\Semester VIII\IFS4027 - Deep Learning\Tugas\DNN_Example\DNN_Example\obj\Debug\DNN_Example.vbprojResolveAssemblyReference.cache
